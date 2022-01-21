@@ -40,19 +40,15 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 
 **Block 1** consists of three units:
 
-- Unit 1: Creative Coding and Creative Computing Frameworks - taught by me and [Alice Stewart](https://alicestew.art/).
-- Unit 2: Introducing Computational Futures and Artificial Intelligence - taught by [Alex Fefegha](https://designcode.art/) and [Dr. Rebecca Fiebrink](https://www.arts.ac.uk/creative-computing-institute/people/rebecca-fiebrink).
-- [Unit 3: Creative Practice: Visual Coding and Physical Computing](https://github.com/developdata/CCIDiploma-Unit3) - taught by [Indira Knight](https://www.linkedin.com/in/indira-k-bb857515b/) and [Alice Stewart](https://alicestew.art/).
-
-In addition, [Vali Lalioti](https://www.theinnovationconsultancy.com/about/) will be supporting the online Diploma cohort for all units.
+- Unit 1: Creative Coding and Creative Computing Frameworks - taught by me.
+- Unit 2: Introducing Computational Futures and Artificial Intelligence - taught by [Murad Khan](https://www.muradkhan.co.uk/).
+- Unit 3: Creative Practice: Visual Coding and Physical Computing - taught by [Andy Sheen and Mike Vanis of VAST](https://www.plummerfernandez.com/).
 
 **Block 2** consists of three units:
 
 - Unit 4: Coding for Collaborative App Development - taught by me.
-- Unit 5: Working and the Digital Creative Industries - taught by [Alex Fefegha](https://designcode.art/).
-- Unit 6: Creative Practice: Computational Environments - taught by [Indira Knight](https://www.linkedin.com/in/indira-k-bb857515b/) and [Emile Giles](http://emiliegiles.co.uk/).
-
-In addition [Dr. Vali Lalioti](https://www.theinnovationconsultancy.com/about/) will be supporting the online Diploma cohort for all units.
+- Unit 5: Working and the Digital Creative Industries - taught by TBC.
+- Unit 6: Creative Practice: Computational Environments - taught by [Murad Khan](https://www.muradkhan.co.uk/).
 
 ## Learning Outcomes and platforms for doing so
 
