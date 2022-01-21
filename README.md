@@ -1,4 +1,4 @@
-# Lecture/workshop slides and wiki for Unit 4 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2020/2021 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma)
+# Lecture/workshop slides and wiki for Unit 4 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2021/2022 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma)
 
 ## Information
 
@@ -6,16 +6,16 @@
 - Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/).
 - Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London and online!
 - Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- Weekly teaching time: Monday 1000-1300.
+- Weekly teaching time: Tuesday 0930-1300.
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
 - Tutorials take place every Tuesday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
-  - Remote Tutorial session 1: Tuesdays 1000-1300.
-  - Remote Tutorial session 2: Tuesdays 1400-1700.
-  - Please see the [Unit 4 Wiki Tutorial Schedule](https://github.com/JGL/CCIDiploma-SpringSummer2021/wiki/Tutorial-Schedule) for details of when **your next** tutorial will be.
+  - Remote Tutorial session 1: Mondays 1030-1300.
+  - Remote Tutorial session 2: Mondays 1400-1730.
+  - Please see the [Unit 4 Wiki Tutorial Schedule](https://github.com/JGL/CCIDiploma-SpringSummer2022/wiki/Tutorial-Schedule) for details of when **your next** tutorial will be.
 - If **your next** tutorial is too far away, or you have a more urgent question, please message me on the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) - see the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) for Blackboard Collaborate Ultra links to our remote teaching sessions.
-- [Lecture and Workshop slides](https://jgl.github.io/CCIDiploma-SpringSummer2021/)
-- Please see the [Unit 4 Wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/CCIDiploma-SpringSummer2021/wiki).
+- [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) - see the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) for Blackboard Collaborate Ultra links to our remote teaching sessions.
+- [Lecture and Workshop slides](https://jgl.github.io/CCIDiploma-SpringSummer2022/)
+- Please see the [Unit 4 Wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/CCIDiploma-SpringSummer2022/wiki).
 - [Take a look at the student sourced set of notes](https://github.com/rociorey/cci-2020/wiki).
 
 ## Code of Conduct
@@ -82,7 +82,7 @@ At the end of this block (midway through the 2021 Spring term) you should have t
 
 ### Teaching Style
 
-I'll be teaching using Apple's [Develop In Swift Explorations](https://books.apple.com/us/book/develop-in-swift-explorations/id1511184149) course. The course is made of four units, with an episode section between each unit. Each unit is split into four sections:
+I'll be teaching using Apple's [Develop In Swift Explorations (Xcode 13)](https://books.apple.com/gb/book/develop-in-swift-explorations/id1581182728) course. The course is made of four units, with an episode section between each unit. Each unit is split into four sections:
 
 1. **_Get Started_**
    - You’ll begin by learning the key concepts covered in the unit, exploring how they relate to your everyday experiences, and completing activities that deepen your understanding. By using coding concepts to think about everyday problems, you’ll also be learning to think critically, to see the world as a programmer, and to apply computational reasoning.
@@ -95,7 +95,7 @@ I'll be teaching using Apple's [Develop In Swift Explorations](https://books.app
 
 Between the units, the episodes tell the story of a group of TV club students as they use technology in their daily lives. Each episode introduces key concepts about technology—and challenges you to analyse the students’ choices and to reflect on your own practices.
 
-This will be the first time that I've taught using this material, so I'd love to hear all feedback - good and bad!
+This will be the second time that I've taught using this material, so I'd love to hear all feedback - good and bad!
 
 _**You are expected to undertake independent study of 25 hours per week over the three units that you will be taught every block.**_
 
@@ -111,7 +111,7 @@ At the end of Block 1 (halfway through the Spring Term) and at the end of Block 
 
 Both units will be assessed in the same two ways - via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 hour to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 2 hours to complete the Practical Exam.
 
-Because of Covid, last year only the Multiple Choice Swift Test was issued. Please find [last year's mock Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/pdf/2020_06_01_Unit4MultipleChoiceExamMOCKWithAnswers.pdf) and last year's [real Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/pdf/2020_05_25_Unit4MultipleChoiceExamREAL.pdf).
+Because of Covid, two years ago only the Multiple Choice Swift Test was issued. Please find [last year's mock Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/pdf/2020_06_01_Unit4MultipleChoiceExamMOCKWithAnswers.pdf) and last year's [real Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/pdf/2020_05_25_Unit4MultipleChoiceExamREAL.pdf).
 
 Units 2 and 5 are assessed via an essay.
 
@@ -119,53 +119,49 @@ Units 3 and 6 are assessed via the submission of a 5 minute video and accompanyi
 
 ## Block 2, Unit 4 schedule
 
-## Week 1 - Monday 22nd February 2021 (week 8 of 52)
+## Week 1 - Tuesday 8th February 2021 (week 6 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_01.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_01.html).
 
 ## Week 2 - Monday 1st March 2021 (week 9 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_02.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_02.html).
 
 ## Week 3 - Monday 8th March 2021 (week 10 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_03.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_03.html).
 
 ## Week 4 - Monday 15th March 2021 (week 11 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_04.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_04.html).
 
 ## Week 5 - Monday 22nd March 2021 (week 12 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_05.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_05.html).
 
 ## Week 6 - Monday 12th April 2021 (week 15 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_06.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_06.html).
 
 ## Week 7 - week commencing Monday 19th April 2021 (week 16 of 52)
 
-- Monday 19th April 2021, 1000-1300 - Group A and Group Online: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_07.html).
-- Monday 19th April 2021, 1400-1700 - Group B: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_07.html).
-- Tuesday 20th April 2021, 1000-1300 - Group C: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_07.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_07.html).
 
 ## Week 8 - Monday 26th April 2021 (week 17 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_08.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_08.html).
 
 ## Week 9 - week commencing Monday 10th May 2021 (week 19 of 52)
 
-- Monday 10th May April 2021, 1000-1300 - Group A and Group Online: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_09.html).
-- Monday 10th May 2021, 1400-1700 - Group B: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_09.html).
-- Tuesday 11th May 2021, 1000-1300 - Group C: In person session, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_09.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_08.html).
 
 ## Week 10 - Monday 17th May 2021 (week 20 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_10.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_10.html).
 
 ## Week 11 - Monday 24th May 2021 (week 21 of 52)
 
-- 1000-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=48808) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2021/slides/lecture_11.html).
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_11.html).
 
 ## Thanks
 
