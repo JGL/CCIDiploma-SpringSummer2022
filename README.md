@@ -1,22 +1,22 @@
-# Lecture/workshop slides and wiki for Unit 4 of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2021/2022 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma)
+# Lecture/workshop slides and wiki for Unit 4: "Coding for Collaborative App Development" of the [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)'s 2021/2022 [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-computing/undergraduate/ual-creative-computing-institute-diploma)
 
 ## Information
 
 - [All term dates](https://www.arts.ac.uk/students/term-dates) - N.B. if you are doing a degree at UAL you are in [Higher Education](https://en.wikipedia.org/wiki/Higher_education).
 - Lecturer: [Joel Gethin Lewis](https://joelgethinlewis.com/).
-- Location: [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London and online!
-- Contact me via the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
-- Weekly teaching time: Tuesday 0930-1300.
+- Location: [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London and online!
+- Contact me via the [UAL CCI Slack](https://ual-cci.slack.com).
+- Weekly remote teaching: Tuesdays 0930-1300.
+- Weekly in person workshops with [Kenneth Lim](https://twitter.com/limzykenneth): Fridays 0930-1300, 4th floor, CCI building, Camberwell.
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
-- Tutorials take place every Tuesday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
+- Tutorials take place every Monday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
   - Remote Tutorial session 1: Mondays 1030-1300.
   - Remote Tutorial session 2: Mondays 1400-1730.
   - Please see the [Unit 4 Wiki Tutorial Schedule](https://github.com/JGL/CCIDiploma-SpringSummer2022/wiki/Tutorial-Schedule) for details of when **your next** tutorial will be.
-- If **your next** tutorial is too far away, or you have a more urgent question, please message me on the [UAL Creative Computing Institute Slack](https://ual-cci.slack.com).
+- If **your next** tutorial is too far away, or you have a more urgent question, please message me on the [UAL CCI Slack](https://ual-cci.slack.com).
 - [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) - see the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) for Blackboard Collaborate Ultra links to our remote teaching sessions.
 - [Lecture and Workshop slides](https://jgl.github.io/CCIDiploma-SpringSummer2022/)
 - Please see the [Unit 4 Wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/CCIDiploma-SpringSummer2022/wiki).
-- [Take a look at the student sourced set of notes](https://github.com/rociorey/cci-2020/wiki).
 
 ## Code of Conduct
 
@@ -27,7 +27,6 @@ You can find our code of conduct here: [code_of_conduct.md](CODE_OF_CONDUCT.md),
 [Golan Levin](https://www.flong.com/) also offers a useful thought from his children's school:
 
 > When communicating, ask yourself:
->
 > - T – is it True?
 > - H – is it Helpful?
 > - I – is it Inspiring?
@@ -46,9 +45,9 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 
 **Block 2** consists of three units:
 
-- Unit 4: Coding for Collaborative App Development - taught by me.
-- Unit 5: Working and the Digital Creative Industries - taught by TBC.
-- Unit 6: Creative Practice: Computational Environments - taught by [Murad Khan](https://www.muradkhan.co.uk/).
+- Unit 4: Coding for Collaborative App Development - taught by me and [Kenneth Lim](https://twitter.com/limzykenneth).
+- Unit 5: Working and the Digital Creative Industries - taught by [Murad Khan](https://www.muradkhan.co.uk/).
+- Unit 6: Creative Practice: Computational Environments - taught by Herman Ho and [Val Toro](https://valeriatoro.com/).
 
 ## Learning Outcomes and platforms for doing so
 
@@ -99,19 +98,15 @@ This will be the second time that I've taught using this material, so I'd love t
 
 _**You are expected to undertake independent study of 25 hours per week over the three units that you will be taught every block.**_
 
-## Working in groups of three
-
-~~Throughout the term, you will be working in pairs. This is a technique known as [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). You may change pair partner as often or sparingly as you like.~~
-
-Following the [latest research](https://twitter.com/helenbevan/status/1175650749797167104?s=11), I've decided to shift us from pairs to threes. After all, [three is a magic number](https://www.youtube.com/watch?v=np0YIaHv6LQ)</a>.
-
 ## Assessment
 
 At the end of Block 1 (halfway through the Spring Term) and at the end of Block 2 (at the end of the Summer Term), you will be assessed individually. The two units I teach (Unit 1 and Unit 4) are assessed in the same way:
 
 Both units will be assessed in the same two ways - via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 hour to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 2 hours to complete the Practical Exam.
 
-Because of Covid, two years ago only the Multiple Choice Swift Test was issued. Please find [last year's mock Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/pdf/2020_06_01_Unit4MultipleChoiceExamMOCKWithAnswers.pdf) and last year's [real Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2021/blob/main/docs/pdf/2020_05_25_Unit4MultipleChoiceExamREAL.pdf).
+Please find [last year's mock Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2022/blob/main/docs/pdf/2020_06_01_Unit4MultipleChoiceExamMOCKWithAnswers.pdf) and last year's [real Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2022/blob/main/docs/pdf/2020_05_25_Unit4MultipleChoiceExamREAL.pdf).
+
+Please find [last year's mock practical exam here](https://github.com/JGL/CCIDiploma-SpringSummer2022/blob/main/docs/pdf/2021_05_18_Unit4PracticalExamMOCK.pdf) and last year's [last year's real practical exam here](https://github.com/JGL/CCIDiploma-SpringSummer2022/blob/main/docs/pdf/2021_06_01_Unit4PracticalExam.pdf).
 
 Units 2 and 5 are assessed via an essay.
 
@@ -169,4 +164,4 @@ Units 3 and 6 are assessed via the submission of a 5 minute video and accompanyi
 
 ## Thanks
 
-Thanks to Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
+Thanks to Herman Ho, Val Toro, Murad Khan, Matthew Plummer Fernandez, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
