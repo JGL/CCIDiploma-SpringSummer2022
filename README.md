@@ -7,7 +7,7 @@
 - Location: [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London and online!
 - Contact me via the [UAL CCI Slack](https://ual-cci.slack.com).
 - Weekly remote teaching: Tuesdays 0930-1300.
-- Weekly in person workshops with [Kenneth Lim](https://twitter.com/limzykenneth): Fridays 0930-1300, 4th floor, CCI building, Camberwell.
+- Weekly in person workshops with [Kenneth Lim](https://github.com/limzykenneth): Fridays 0930-1300, 4th floor, CCI building, Camberwell.
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
 - Tutorials take place every Monday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
   - Remote Tutorial session 1: Mondays 1030-1300.
@@ -45,7 +45,7 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 
 **Block 2** consists of three units:
 
-- Unit 4: Coding for Collaborative App Development - taught by me and [Kenneth Lim](https://twitter.com/limzykenneth).
+- Unit 4: Coding for Collaborative App Development - taught by me and [Kenneth Lim](https://github.com/limzykenneth).
 - Unit 5: Working and the Digital Creative Industries - taught by [Murad Khan](https://www.muradkhan.co.uk/).
 - Unit 6: Creative Practice: Computational Environments - taught by Herman Ho and [Val Toro](https://valeriatoro.com/).
 
@@ -97,6 +97,12 @@ Between the units, the episodes tell the story of a group of TV club students as
 This will be the second time that I've taught using this material, so I'd love to hear all feedback - good and bad!
 
 _**You are expected to undertake independent study of 25 hours per week over the three units that you will be taught every block.**_
+
+## Working in groups of three
+
+~~Throughout the term, you will be working in pairs. This is a technique known as [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming). You may change pair partner as often or sparingly as you like.~~
+
+Following the [latest research](https://twitter.com/helenbevan/status/1175650749797167104?s=11), I've decided to shift us from pairs to threes. After all, [three is a magic number](https://www.youtube.com/watch?v=np0YIaHv6LQ)</a>.
 
 ## Assessment
 
