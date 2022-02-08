@@ -47,7 +47,7 @@ The [Diploma in Creative Computing](https://www.arts.ac.uk/subjects/creative-com
 
 - Unit 4: Coding for Collaborative App Development - taught by me and [Kenneth Lim](https://github.com/limzykenneth).
 - Unit 5: Working and the Digital Creative Industries - taught by [Murad Khan](https://www.muradkhan.co.uk/).
-- Unit 6: Creative Practice: Computational Environments - taught by Herman Ho and [Val Toro](https://valeriatoro.com/).
+- Unit 6: Creative Practice: Computational Environments - taught by [Herman Ho](https://www.artstation.com/hermantofu) and [Val Toro](https://valeriatoro.com/).
 
 ## Learning Outcomes and platforms for doing so
 
