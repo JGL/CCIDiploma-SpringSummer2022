@@ -120,47 +120,55 @@ Units 3 and 6 are assessed via the submission of a 5 minute video and accompanyi
 
 ## Block 2, Unit 4 schedule
 
-## Week 1 - Tuesday 15th February 2022 (week 7 of 52)
+## Lecture 1 - Tuesday 15th February 2022 (week 7 of 52)
 
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_01.html).
 
-## Weeks 2 and 3 cancelled due to UCU strike action (Tuesday 22nd 2022 (week 8 of 52) and Tuesday 1st March 2022 (week 9 of 52))
-
-## Week 4 - Tuesday 8th March 2022 (week 10 of 52)
+## Previous lectures 2 (Tuesday 22nd 2022, week 8 of 52) and 3 (Tuesday 1st March  2022, week 9 of 52) cancelled due to UCU strike action
+ 
+## Lecture 2 - Tuesday 8th March 2022 (week 10 of 52)
 
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_02.html).
 
-## Week 5 - Tuesday 15th March 2022 (week 11 of 52)
+## Lecture 3 - Tuesday 15th March 2022 (week 11 of 52)
 
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_03.html).
 
-## Week 6 - Tuesday 19th April 2022 (week 16 of 52)
+## Lecture 4 - Tuesday 19th April 2022 (week 16 of 52)
 
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_04.html).
 
-## Week 7 - Tuesday 26th April 2022 (week 17 of 52)
+## Lecture 5 - CATCH UP! Monday 25th April 2022 (week 17 of 52)
 
-- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_05.html).
+- 1400-1730 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_05.html).
 
-## Week 8 - Tuesday 3rd May 2022 (week 18 of 52)
+## Lecture 6 - Tuesday 26th April 2022 (week 17 of 52)
 
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_06.html).
 
-## Week 9 - Tuesday 10th May 2022 (week 19 of 52)
+## Lecture 7 - Tuesday 3rd May 2022 (week 18 of 52)
 
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_07.html).
 
-## Week 10 - Tuesday 17th May 2022 (week 20 of 52)
+## Lecture 8 - CATCH UP! Monday 9th May 2022 (week 19 of 52)
 
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_08.html).
 
-## Week 11 - Tuesday 24th May 2022 (week 21 of 52)
+## Lecture 9 - Tuesday 10th May 2022 (week 19 of 52)
 
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_09.html).
 
-## Week 12 - Tuesday 31st May 2022 (week 22 of 52)
+## Lecture 10 - Tuesday 17th May 2022 (week 20 of 52)
 
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_10.html).
+
+## Lecture 11 - Tuesday 24th May 2022 (week 21 of 52)
+
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_11.html).
+
+## Lecture 12 - Tuesday 31st May 2022 (week 22 of 52)
+
+- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_12.html).
 
 ## Thanks
 
