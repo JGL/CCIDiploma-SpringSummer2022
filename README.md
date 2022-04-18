@@ -152,7 +152,7 @@ Units 3 and 6 are assessed via the submission of a 5 minute video and accompanyi
 
 ## Lecture 8 - CATCH UP! Monday 9th May 2022 (week 19 of 52)
 
-- 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_08.html).
+- 1400-1730 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_08.html).
 
 ## Lecture 9 - Tuesday 10th May 2022 (week 19 of 52)
 
