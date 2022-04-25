@@ -17,6 +17,7 @@
 - [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) - see the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) for Blackboard Collaborate Ultra links to our remote teaching sessions.
 - [Lecture and Workshop slides](https://jgl.github.io/CCIDiploma-SpringSummer2022/)
 - Please see the [Unit 4 Wiki for all non-lecture notes, reading lists and other resources](https://github.com/JGL/CCIDiploma-SpringSummer2022/wiki).
+- [For owners of PC's or older Mac's, please see the CCI Wiki for information on remote access via Splashtop](https://wiki.cci.arts.ac.uk/books/facilities/page/how-do-i-remotely-access-a-mac-desktop).
 
 ## Code of Conduct
 
