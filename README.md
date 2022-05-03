@@ -8,6 +8,7 @@
 - Contact me via the [UAL CCI Slack](https://ual-cci.slack.com).
 - Weekly remote teaching: Tuesdays 0930-1300.
 - Weekly in person workshops with [Kenneth Lim](https://github.com/limzykenneth): Fridays 0930-1300, 4th floor, CCI building, Camberwell.
+- STOP PRESS! For the remainer of Block 2, the Weekly in person workshops will be with [Filippo Romeo](https://www.instagram.com/1.10011110001101111/): Fridays 0930-1300, 4th floor, CCI building, Camberwell.
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the courses you are taking in the Diploma.**_
 - Tutorials take place every Monday. These tutorials are for you to discuss anything you'd like - from the how the course is going, to your own practice, to work placements or anything else. My aim is to have at least two tutorials with every student on the diploma every term.
   - Remote Tutorial session 1: Mondays 1030-1300.
@@ -28,11 +29,13 @@ You can find our code of conduct here: [code_of_conduct.md](CODE_OF_CONDUCT.md),
 [Golan Levin](https://www.flong.com/) also offers a useful thought from his children's school:
 
 > When communicating, ask yourself:
+>
 > - T – is it True?
 > - H – is it Helpful?
 > - I – is it Inspiring?
 > - N – is it Necessary?
 > - K – is it Kind?
+>
 
 ## Block/Term Structure
 
@@ -126,7 +129,7 @@ Units 3 and 6 are assessed via the submission of a 5 minute video and accompanyi
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_01.html).
 
 ## Previous lectures 2 (Tuesday 22nd 2022, week 8 of 52) and 3 (Tuesday 1st March  2022, week 9 of 52) cancelled due to UCU strike action
- 
+
 ## Lecture 2 - Tuesday 8th March 2022 (week 10 of 52)
 
 - 0930-1300 - Online session for all groups, taught by me. Use the [Unit 4 Moodle](https://moodle.arts.ac.uk/course/view.php?id=63594) to watch my live lecture via Collaborate Ultra. [Slides for reference](https://jgl.github.io/CCIDiploma-SpringSummer2022/slides/lecture_02.html).
@@ -173,4 +176,4 @@ Units 3 and 6 are assessed via the submission of a 5 minute video and accompanyi
 
 ## Thanks
 
-Thanks to Herman Ho, Val Toro, Murad Khan, Matthew Plummer Fernandez, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
+Thanks to Filippo Romeo, Herman Ho, Val Toro, Murad Khan, Matthew Plummer Fernandez, Alex Fefegha, Anna Troisi, Ben Kelly, Cathy Hoste, Charlotte Webb, Julia Makivic, Kenneth Lim, Matt Jarvis, Melisa Simpson, Phoenix Perry, Rebecca Fiebrink, Sheldon Brown, Tom Lynch, Eva Wilkinson, Vali Lalioti, Indira Knight, Alice Stewart, Ben Stopher, Mick Grierson, Georgina Capdevila Cano, Alan Warburton, Rebecca Ross, Jaap de Maat, Lauren McCarthy, Kyle McDonald, Jonathan Harris, Zach Lieberman, Jessica Bland, Rick Walker, Graham Bennett, Toby Milner-Gulland, Liam Walsh, Golan Levin, Greg Smith, Mark Lundin, Xiaohan Zhang, Lia, Joshua Goldberg, Rosa Menkman, Daniel Shiffman, Tega Brain, Caitlin Morris, Harri Lewis and Rune Madsen.
