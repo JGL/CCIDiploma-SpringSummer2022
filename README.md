@@ -82,7 +82,7 @@ At the end of this block (midway through the 2021 Spring term) you should have t
 
 ### Teaching Style
 
-I'll be teaching using Apple's [Develop In Swift Explorations (Xcode 13)](https://books.apple.com/gb/book/develop-in-swift-explorations/id1581182728) course. The course is made of four units, with an episode section between each unit. Each unit is split into four sections:
+I'll be teaching using Apple's [Develop In Swift Explorations (Xcode 13)](https://books.apple.com/gb/book/develop-in-swift-explorations/id1581182728) course. [The student guide is available here](https://books.apple.com/gb/book/develop-in-swift-explorations/id1581182728), [the teacher guide is available here](https://books.apple.com/gb/book/develop-in-swift-explorations-teacher-guide/id1581182814). [You can download the extra files for the student guide here](https://education-static.apple.com/explorations/xcode13/student.zip). [You can download the extra files (with completed exercises) for the teacher guide here](https://education-static.apple.com/explorations/xcode13/teacher.zip). The course is made of four units, with an episode section between each unit. Each unit is split into four sections:
 
 1. **_Get Started_**
    - You’ll begin by learning the key concepts covered in the unit, exploring how they relate to your everyday experiences, and completing activities that deepen your understanding. By using coding concepts to think about everyday problems, you’ll also be learning to think critically, to see the world as a programmer, and to apply computational reasoning.
