@@ -118,7 +118,7 @@ Please find [last year's mock practical exam here](https://github.com/JGL/CCIDip
 
 Some tips about how to get the best grade possible:
 
-- Use lots of comments! For both saying what you are doing but also showing reference to where you got that information from. The Swift Documentation would be the perfect place to refence, especially The Swift Programming Lanugage Book.
+- Use lots of comments! For both saying what you are doing but also showing reference to where you got that information from. [The Swift Documentation](https://www.swift.org/documentation/) would be the perfect place to refence, especially [The Swift Programming Language Book](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 - Add more features than are requested in the exam brief - especially new user interface elements that allow users to control the app interactively.
 - Finally, make it personal! Add your own graphics, text or other elements to make an app that only you could make.
 
