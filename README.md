@@ -110,17 +110,17 @@ Following the [latest research](https://twitter.com/helenbevan/status/1175650749
 
 ## Assessment
 
-At the end of Block 1 (halfway through the Spring Term) and at the end of Block 2 (at the end of the Summer Term), you will be assessed individually. The two units I teach (Unit 1 and Unit 4) are assessed in the same way:
-
-Both units will be assessed in the same two ways - via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 hour to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 2 hours to complete the Practical Exam.
+At the end of Block 1 (halfway through the Spring Term) and at the end of Block 2 (at the end of the Summer Term), you will be assessed individually. The two units I teach (Unit 1 and Unit 4) are assessed in the same way - via multiple choice test and practical exam. Each part is worth 50% of the unit mark. In the multiple choice test you will be presented with a 20 questions relating explicitly to course content. You must choose between up to 4 potentially correct answers per question. You will be given 1 week to complete the 20 multiple choice questions. In the Practical Exam you will be individually asked to write a basic program to demonstrate the application of creative coding to a set problem. You will be given 1 week to complete the Practical Exam.
 
 Please find [last year's mock Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2022/blob/main/docs/pdf/2020_06_01_Unit4MultipleChoiceExamMOCKWithAnswers.pdf) and last year's [real Multiple Choice Swift Test here](https://github.com/JGL/CCIDiploma-SpringSummer2022/blob/main/docs/pdf/2020_05_25_Unit4MultipleChoiceExamREAL.pdf).
 
 Please find [last year's mock practical exam here](https://github.com/JGL/CCIDiploma-SpringSummer2022/blob/main/docs/pdf/2021_05_18_Unit4PracticalExamMOCK.pdf) and last year's [last year's real practical exam here](https://github.com/JGL/CCIDiploma-SpringSummer2022/blob/main/docs/pdf/2021_06_01_Unit4PracticalExam.pdf).
 
-Units 2 and 5 are assessed via an essay.
+Some tips about how to get the best grade possible:
 
-Units 3 and 6 are assessed via the submission of a 5 minute video and accompanying PDF document.
+- Use lots of comments! For both saying what you are doing but also showing reference to where you got that information from. The Swift Documentation would be the perfect place to refence, especially The Swift Programming Lanugage Book.
+- Add more features than are requested in the exam brief - espeically new user interface elements that allow users to control the app interactively. We'll be covering all of the elements that are available to you in the next three lectures.
+- Finally, make it personal! Add your own graphics, text or other elements to make an app that only you could make. You've got this. I know it's been hard, but with this final push we can get there all together.
 
 ## Block 2, Unit 4 schedule
 
